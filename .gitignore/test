@@ -1,0 +1,12 @@
+import re
+import sys
+def lexique(nom, source):
+    ok="/usr/share/dict/"+source
+    "fichier_lexique"+nom= open(ok, mode="r")
+    lexiqueX=set()
+    for mot in fichier_lexiqueX
+         mot=mot.rstrip("\n")
+        lexiqueX.add(mot)
+    fichier_lexiqueX.close()
+lexique("FR","french")
+lexique("EN","british-english") 
